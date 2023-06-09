@@ -1,0 +1,208 @@
+.textH1 {
+  font-size: 54px;
+  line-height: 86px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textH2 {
+  margin-bottom: 40px;
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textH3 {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textH4 {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textH5 {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textH6 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textLarge {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textMedium {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textSmall {
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+.textSuperSmall {
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: 400;
+
+  &_bold {
+    font-weight: 600;
+  }
+
+  &_medium {
+    font-weight: 500;
+  }
+}
+
+
+
+@media screen and (max-width: 887px){
+  .textH1 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .textH2 {
+    margin-bottom: 32px;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .textH3 {
+    font-size: 32px;
+    line-height: 40px;
+
+    &_bold {
+      font-weight: 600;
+    }
+
+    &_medium {
+      font-weight: 500;
+    }
+  }
+
+  .textH4 {
+    font-size: 24px;
+    line-height: 32px;
+
+    &_bold {
+      font-weight: 600;
+    }
+
+    &_medium {
+      font-weight: 500;
+    }
+  }
+
+  .textH5 {
+    font-size: 18px;
+    line-height: 28px;
+
+    &_bold {
+      font-weight: 600;
+    }
+
+    &_medium {
+      font-weight: 500;
+    }
+  }
+
+  .textH6 {
+    font-size: 16px;
+    line-height: 24px;
+
+    &_bold {
+      font-weight: 600;
+    }
+
+    &_medium {
+      font-weight: 500;
+    }
+  }
+
+}

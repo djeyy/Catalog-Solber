@@ -1,0 +1,1 @@
+export const formPrice = new Intl.NumberFormat('ru-RU').format;

@@ -1,0 +1,159 @@
+@font-face {
+  font-family: Roboto;
+  src: url('../../public/fonts/Roboto-Light.eot');
+  src: local('☺'), url('../../public/fonts/Roboto-Light.woff') format('woff'), url('../../public/fonts/Roboto-Light.ttf') format('truetype'), url('../../public/fonts/Roboto-Light.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('../../public/fonts/Roboto-Regular.eot');
+  src: local('☺'), url('../../public/fonts/Roboto-Regular.woff') format('woff'), url('../../public/fonts/Roboto-Regular.ttf') format('truetype'), url('../../public/fonts/Roboto-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('../../public/fonts/Roboto-Medium.eot');
+  src: local('☺'), url('../../public/fonts/Roboto-Medium.woff') format('woff'), url('../../public/fonts/Roboto-Medium.ttf') format('truetype'), url('../../public/fonts/Roboto-Medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('../../public/fonts/Roboto-Bold.eot');
+  src: local('☺'), url('../../public/fonts/Roboto-Bold.woff') format('woff'), url('../../public/fonts/Roboto-Bold.ttf') format('truetype'), url('../../public/fonts/Roboto-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+%descH1Bold {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 600;
+}
+%descH1Medium {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 500;
+}
+%descH1Regular {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 400;
+}
+
+%descH2Bold {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 600;
+}
+%descH2Medium {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+}
+%descH2Regular {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+}
+
+%descH3Bold {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+}
+%descH3Medium {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+}
+%descH3Regular {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+%descH4Bold {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+}
+%descH4Medium {
+  font-size: 18px;
+  line-height: 29px;
+  font-weight: 500;
+}
+%descH4Regular {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+%descH5Bold {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+%descH5Medium {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+%descH5Regular {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+%largeB {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+%largeM {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+%largeR {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+%mediumB {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+%mediumM {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+%mediumR {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+%smallB {
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 600;
+}
+%smallM {
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 500;
+}
+%smallR {
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+}

@@ -1,0 +1,147 @@
+.titleH1 {
+  font-size: 64px;
+  line-height: 96px;
+}
+.titleH1_bold {
+  font-weight: 600;
+}
+.titleH1_medium {
+  font-weight: 500;
+}
+
+.titleH2 {
+  margin-bottom: 40px;
+  font-size: 40px;
+  line-height: 48px;
+}
+.titleH2_bold {
+  font-weight: 600;
+}
+.titleH2_medium {
+  font-weight: 500;
+}
+
+.titleH3 {
+  font-size: 32px;
+  line-height: 40px;
+}
+.titleH3_bold {
+  font-weight: 600;
+}
+.titleH3_medium {
+  font-weight: 500;
+}
+
+.titleH4 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.titleH4_bold {
+  font-weight: 600;
+}
+.titleH4_medium {
+  font-weight: 500;
+}
+
+.titleH5 {
+  font-size: 18px;
+  line-height: 28px;
+}
+.titleH5_bold {
+  font-weight: 600;
+}
+.titleH5_medium {
+  font-weight: 500;
+}
+
+.titleH6 {
+  font-size: 16px;
+  line-height: 24px;
+}
+.titleH6_bold {
+  font-weight: 600;
+}
+.titleH6_medium {
+  font-weight: 500;
+}
+
+.large {
+  font-size: 16px;
+  line-height: 24px;
+}
+.large_bold {
+  font-weight: 600;
+}
+.large_medium {
+  font-weight: 500;
+}
+
+.medium {
+  font-size: 14px;
+  line-height: 20px;
+}
+.medium_bold {
+  font-weight: 600;
+}
+.medium_medium {
+  font-weight: 500;
+}
+
+@media screen and (max-width: 768px) {
+  .titleH1 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .titleH2 {
+    margin-bottom: 32px;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .titleH3 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .titleH3_bold {
+    font-weight: 600;
+  }
+  .titleH3_medium {
+    font-weight: 500;
+  }
+
+  .titleH4 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .titleH4_bold {
+    font-weight: 600;
+  }
+  .titleH4_medium {
+    font-weight: 500;
+  }
+
+  .titleH5 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .titleH5_bold {
+    font-weight: 600;
+  }
+  .titleH5_medium {
+    font-weight: 500;
+  }
+
+  .titleH6 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .titleH6_bold {
+    font-weight: 600;
+  }
+  .titleH6_medium {
+    font-weight: 500;
+  }
+}
+
+/*# sourceMappingURL=typographuck.css.map */
